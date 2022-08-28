@@ -1,0 +1,6 @@
+## Interface: 11200
+## Version: 0.0.1
+## Author: drfdev
+## Title: Turtle WoW - Loot navigator
+## Notes: Loot table addon for https://turtle-wow.org
+initialize.lua
