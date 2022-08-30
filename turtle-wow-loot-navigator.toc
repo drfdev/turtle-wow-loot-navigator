@@ -3,4 +3,5 @@
 ## Author: drfdev
 ## Title: Turtle WoW - Loot navigator
 ## Notes: Loot table addon for https://turtle-wow.org
-initialize.lua
+
+turtle-wow-loot-navigator.lua
