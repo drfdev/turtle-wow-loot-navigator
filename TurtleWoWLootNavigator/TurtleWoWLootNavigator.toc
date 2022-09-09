@@ -4,6 +4,6 @@
 ## Title: Turtle WoW - Loot navigator
 ## Notes: Loot table addon for https://turtle-wow.org
 
-core/core_functions.lua
+core\core_functions.lua
 
 TurtleWoWLootNavigator.lua
