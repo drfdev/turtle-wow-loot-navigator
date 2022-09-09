@@ -6,4 +6,12 @@
 
 core\core_functions.lua
 
+data\dungeons.lua
+data\raids.lua
+data\wbosses.lua
+data\factions.lua
+data\pvpitems.lua
+data\professions.lua
+data\classitems.lua
+
 TurtleWoWLootNavigator.lua
