@@ -8,3 +8,6 @@ Copy directory (with all files inside) `TurtleWoWLootNavigator` to wow addon fol
 ---
 
 All Data loaded from: https://database.turtle-wow.org/
+
+---
+**STILL IN DEVELOPMENT**
