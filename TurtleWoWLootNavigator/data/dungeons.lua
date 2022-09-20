@@ -5,7 +5,7 @@
 -- lits:
 
 -- Ragefire Chasm (13 - 18)
-    -- single_group:
+    -- bosses:
         -- Taragaman the Hungerer
         -- Oggleflint
         -- Jergosh the Invoker
@@ -63,7 +63,7 @@
         -- Bruegal Ironknuckle
     
 -- Blackfathom Deeps (23 -32)
-    -- single_group:
+    -- bosses:
         -- Ghamoo-ra
         -- Lady Sarevess
         -- Gelihast
@@ -73,19 +73,29 @@
         -- Old Serra'kis
         -- Aku'mai
 
--- Scarlet Monastery Graveyard (27 - 36)
-    -- bosses:
-        -- Interrogator Vishas
-        -- Bloodmage Thalnos
-    -- rares:
-        -- Azshir the Sleepless
-        -- Fallen Champion
-        -- Ironspine
+-- Scarlet Monastery
+    -- Scarlet Monastery Graveyard (27 - 36)
+        -- bosses:
+            -- Interrogator Vishas
+            -- Bloodmage Thalnos
+        -- rares:
+            -- Azshir the Sleepless
+            -- Fallen Champion
+            -- Ironspine
 
--- Scarlet Monastery Library (28 - 39)
-    -- single_group:
-        -- Houndmaster Loksey
-        -- Arcanist Doan
+    -- Scarlet Monastery Library (28 - 39)
+        -- bosses:
+            -- Houndmaster Loksey
+            -- Arcanist Doan
+    -- Scarlet Monastery Armory (32 - 41)
+        -- bosses:
+            -- Herod
+
+    -- Scarlet Monastery Cathedral (35 - 45)
+        -- bosses:
+            -- Scarlet Commander Mograine
+            -- High Inquisitor Whitemane
+            -- High Inquisitor Fairbanks
 
 -- Gnomeregan (29 - 38)
     -- bosses:
@@ -98,7 +108,7 @@
         -- Dark Iron Ambassador
 
 -- Razorfen Kraul (29 - 38)
-    -- single_group:
+    -- bosses:
         -- Roogug
         -- Aggem Thorncurse
         -- Death Speaker Jargba
@@ -107,41 +117,255 @@
         -- Charlga Razorflank
 
 -- The Crescent Grove (32 - 38)
-    -- single_group:
+    -- bosses:
         -- Grovetender Engryss
         -- Keeper Ranathos
         -- High Priestess A'lathea
         -- Fenektis the Deceiver
         -- Master Raxxieth
 
--- Scarlet Monastery Armory (32 - 41)
-    -- single_group:
-        -- Herod
-
--- Scarlet Monastery Cathedral (35 - 45)
-    -- single_group:
-        -- Scarlet Commander Mograine
-        -- High Inquisitor Whitemane
-        -- High Inquisitor Fairbanks
 
 -- Razorfen Downs (36 - 46)
+    -- bosses:
+        -- Tuten'kash
+        -- Plaguemaw the Rotting
+        -- Mordresh Fire Eye
+        -- Ragglesnout
+        -- Glutton
+        -- Amnennar the Coldbringer
+
 -- Uldaman (40 - 51)
+    -- bosses:
+        -- Revelosh
+        -- Ironaya
+        -- Obsidian Sentinel
+        -- Ancient Stone Keeper
+        -- Galgann Firehammer
+        -- Grimlok
+        -- Archaedas
+    -- The Lost Dwarves:
+        -- Baelog
+        -- Eric "The Swift"
+        -- Olaf
+    
 -- Zul'Farrak (44 - 54)
--- Maraudon Orange (47 - 55)
--- Maraudon Purple (45 - 55)
--- Maraudon Princess (47 - 55)
+    -- bosses:
+        -- Antu'sul
+        -- Theka the Martyr
+        -- Witch Doctor Zum'rah
+        -- Sandfury Executioner
+        -- Nekrum Gutchewer
+        -- Shadowpriest Sezz'ziz
+        -- Sergeant Bly
+        -- Hydromancer Velratha
+        -- Chief Ukorz Sandscalp
+        -- Ruuzlu
+    -- rares:
+        -- Dustwraith
+        -- Zerillis
+        -- Sandarr Dunereaver
+
+-- Maraudon
+    -- Orange: (47 - 55)
+        -- Noxxion
+        -- Razorlash
+    -- Purple: (45 - 55)
+        -- Lord Vyletongue
+    -- Poison Falls: (45 - 55)
+        -- Celebras the Cursed
+    -- Inner: (47 - 55)
+        -- Landslide
+        -- Tinkerer Gizlock
+        -- Rotgrip
+        -- Princess Theradras
+
+-- =======================================================
+-- high level dungeons:
+-- =======================================================
+
+
 -- Temple of Atal'Hakkar (50 - 60)
+    -- bosses:
+        -- Atal'alarion
+        -- Dreamscythe
+        -- Weaver
+        -- Jammal'an the Prophet
+        -- Ogom the Wretched
+        -- Morphaz
+        -- Hazzas
+        -- Avatar of Hakkar
+        -- Shade of Eranikus
+    -- Atal'ai Defenders:
+        -- Gasher
+        -- Hukku
+        -- Loro
+        -- Mijan
+        -- Zolo
+        -- Zul'Lor
+
 -- Hateforge Quarry (52 - 60)
--- Blackrock Depths (52 - 60)
--- Blackrock Depths Arena (52 - 60)
--- Blackrock Depths Emperor (54 - 60)
--- Lower Blackrock Spire (55 - 60)
--- Dire Maul East (55 - 60)
--- Dire Maul North (57 - 60)
--- Dire Maul West (57 - 60)
+    -- bosses:
+        -- High Foreman Bargul Blackhammer
+        -- Engineer Figgles
+        -- Corossis
+        -- Hatereaver Annihilator
+        -- Har'gesh Doomcaller
+
+-- Blackrock Depths
+    -- bosses: (52 - 60)
+        -- Lord Roccor
+        -- Bael'Gar
+        -- Houndmaster Grebmar
+        -- High Interrogator Gerstahn
+        -- Pyromancer Loregrain
+        -- General Angerforge
+        -- Golem Lord Argelmach
+        -- Ribbly Screwspigot
+        -- Hurley Blackbreath
+        -- Plugger Spazzring
+        -- Phalanx
+        -- Lord Incendius
+        -- Fineous Darkvire
+        -- Warder Stilgiss
+        -- Verek
+        -- Ambassador Flamelash
+        -- Magmus
+        -- Princess Moira Bronzebeard
+        -- Emperor Thaurissan
+    -- Ring of Law: (52 - 60)
+        -- Gorosh the Dervish
+        -- Grizzle
+        -- Eviscerator
+        -- Ok'thor the Breaker
+        -- Anub'shiah
+        -- Hedrum the Creeper
+    -- The Vault
+        -- Dark Keeper Bethek
+        -- Dark Keeper Ofgut
+        -- Dark Keeper Pelver
+        -- Dark Keeper Uggel
+        -- Dark Keeper Vorfalk
+        -- Dark Keeper Zimrel
+    -- The Seven (shared loot)
+        -- Hate'rel
+        -- Anger'rel
+        -- Vile'rel
+        -- Gloom'rel
+        -- Seeth'rel
+        -- Doom'rel
+        -- Dope'rel
+
+
+-- Blackrock Spire
+    -- Lower (55 - 60)
+        -- Highlord Omokk
+        -- Shadow Hunter Vosh'gajin
+        -- War Master Voone
+        -- Mother Smolderweb
+        -- Urok Doomhowl (summon)
+        -- Quartermaster Zigris
+        -- Gizrul the Slavener
+        -- Halycon
+        -- Overlord Wyrmthalak
+    -- Upper (56 - 60)
+        -- Pyroguard Emberseer
+        -- Jed Runewatcher (rare)
+        -- Solakar Flamewreath
+        -- Goraluk Anvilcrack
+        -- Warchief Rend Blackhand
+        -- Gyth
+        -- The Beast
+        -- Lord Valthalak (summon)
+        -- General Drakkisath
+        
+
+-- Dire Maul
+    -- East (55 - 60)
+        -- Pusillin
+        -- Lethtendris
+        -- Hydrospawn
+        -- Zevrim Thornhoof
+        -- Alzzin the Wildshaper
+    -- North (57 - 60)
+        -- Guard Mol'dar
+        -- Stomper Kreeg
+        -- Guard Fengus
+        -- Guard Slip'kik
+        -- Captain Kromcrush
+        -- Cho'Rush the Observer
+        -- King Gordok
+    -- West (57 - 60)
+        -- Tendris Warpwood
+        -- Magister Kalendris
+        -- Tsu'zee
+        -- Illyanna Ravenoak
+        -- Immol'thar
+        -- Prince Tortheldrin
+        -- Lord Hel'nurath (summon)
+
 -- Scholomance (58 - 60)
--- Stratholme: Undead District (58 - 60)
--- Stratholme: Scarlet Bastion (58 - 60)
+    -- bosses:
+        -- Jandice Barov
+        -- Rattlegore
+        -- Marduk Blackpool
+        -- Vectus
+        -- Ras Frostwhisper
+        -- Instructor Malicia
+        -- Doctor Theolen Krastinov
+        -- Lorekeeper Polkelt
+        -- The Ravenian
+        -- Lord Alexei Barov
+        -- Lady Illucia Barov
+        -- Darkmaster Gandling
+    -- summon:
+        -- Kirtonos the Herald
+
+-- Stratholme
+    -- Undead District / Main Gate: (58 - 60)
+        -- Fras Siabi (summon)
+        -- Skul (rare)
+        -- Hearthsinger Forresten (rare)
+        -- The Unforgiven
+        -- Postmaster Malown (summon)
+        -- Timmy the Cruel
+        -- Malor the Zealous
+        -- Cannon Master Willey
+        -- Crimson Hammersmith (summon)
+        -- Archivist Galford
+        -- Balnazzar
+    -- Scarlet Bastion / Service Gate: (58 - 60)
+        -- Magistrate Barthilas
+        -- Stonespine (rare)
+        -- Nerub'enkan
+        -- Black Guard Swordsmith (summon)
+        -- Maleki the Pallid
+        -- Baroness Anastari
+        -- Ramstein the Gorger
+        -- Baron Rivendare
+
+
 -- Karazhan Crypt (58 - 60)
+    -- bosses:
+        -- Marrowspike
+        -- Hivaxxis
+        -- Corpsemuncher
+        -- Archlich Enkhraz
+        -- Alarus
+
 -- Caverns of Time: Black Morass (60 - 60)
+    -- bosses:
+        -- Chronar
+        -- Time-Lord Epochronos
+        -- Antnormi
+
 -- Stormwind Vault (60 - 60)
+    -- bosses:
+        -- Aszosh Grimflame
+        -- Tham'Grarr
+        -- Black Bride
+        -- Damian
+        -- Volkan Cruelblade
+        -- Arc'tiras
+
+
+
