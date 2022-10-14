@@ -2,6 +2,12 @@
 -- dungeons.lua
 -- ------------------------
 
+local addon = DRFDEV_TWoWLNav_ADDON;
+
+addon.dungeons_low = {};
+addon.dungeons_high = {};
+addon.dungeons_bosses = {};
+
 -- lits:
 
 -- Ragefire Chasm (13 - 18)

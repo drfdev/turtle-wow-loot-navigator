@@ -2,6 +2,11 @@
 -- raids.lua
 -- ------------------------
 
+local addon = DRFDEV_TWoWLNav_ADDON;
+
+addon.raids = {};
+addon.raids_bosses = {};
+
 -- list:
 
 -- Zul'Gurub (loot: 61-68, ppl: 20)

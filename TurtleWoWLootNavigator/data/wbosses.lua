@@ -2,6 +2,10 @@
 -- wbosses.lua
 -- ------------------------
 
+local addon = DRFDEV_TWoWLNav_ADDON;
+
+addon.worlds_bosses = {};
+
 -- list:
 
 -- Concavius (63, loot: 65)

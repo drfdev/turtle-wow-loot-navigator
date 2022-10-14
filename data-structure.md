@@ -164,54 +164,54 @@ Availability by classes:
 
 
 **Druid**
-    armor: Cloth / Leather 
-    weapon: Daggers / Fist Weapons / One-Handed Maces / Staves / Two-Handed Maces
+    armor: `Cloth / Leather` 
+    weapon: `Daggers / Fist Weapons / One-Handed Maces / Staves / Two-Handed Maces`
 
 
 **Hunter**
-    armor: Cloth / Leather / Mail
-    weapon: Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Axes / One-Handed Swords /
-            Polearms / Staves / Thrown / Two-Handed Axes / Two-Handed Swords
+    armor: `Cloth / Leather / Mail`
+    weapon: `Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Axes / One-Handed Swords /
+            Polearms / Staves / Thrown / Two-Handed Axes / Two-Handed Swords`
 
 
 **Mage**
-    armor: Cloth 
-    weapon: Daggers / One-Handed Swords / Staves / Wands
+    armor: `Cloth` 
+    weapon: `Daggers / One-Handed Swords / Staves / Wands`
 
 
 **Paladin**
-    armor: Cloth / Leather / Mail / Plate / Shield
-    weapon: One-Handed Axes / One-Handed Maces / One-Handed Swords / Polearms / Two-Handed Axes /
-            Two-Handed Maces / Two-Handed Swords
+    armor: `Cloth / Leather / Mail / Plate / Shield`
+    weapon: `One-Handed Axes / One-Handed Maces / One-Handed Swords / Polearms / Two-Handed Axes /
+            Two-Handed Maces / Two-Handed Swords`
 
 
 **Priest**
-    armor: Cloth 
-    weapon: Daggers / One-Handed Maces / Staves / Wands
+    armor: `Cloth` 
+    weapon: `Daggers / One-Handed Maces / Staves / Wands`
 
 
 **Rogue**
-    armor: Cloth / Leather 
-    weapon: Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Maces / One-Handed Swords /
-            Thrown
+    armor: `Cloth / Leather` 
+    weapon: `Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Maces / One-Handed Swords /
+            Thrown`
 
 
 **Shaman**
-    armor: Cloth / Leather / Mail / Shield
-    weapon: Daggers / Fist Weapons / One-Handed Axes / One-Handed Maces / Staves / Two-Handed Axes /
-            Two-Handed Maces
+    armor: `Cloth / Leather / Mail / Shield`
+    weapon: `Daggers / Fist Weapons / One-Handed Axes / One-Handed Maces / Staves / Two-Handed Axes /
+            Two-Handed Maces`
 
 
 **Warlock**
-    armor: Cloth 
-    weapon: Daggers / One-Handed Swords / Staves / Wands
+    armor: `Cloth` 
+    weapon: `Daggers / One-Handed Swords / Staves / Wands`
 
 
 **Warriors**
-    armor: Cloth / Leather / Mail / Plate  / Shield
-    weapon: Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Axes / One-Handed Maces /
+    armor: `Cloth / Leather / Mail / Plate  / Shield`
+    weapon: `Bows / Crossbows / Daggers / Fist Weapons / Guns / One-Handed Axes / One-Handed Maces /
             One-Handed Swords / Polearms / Staves / Thrown / Two-Handed Axes / Two-Handed Maces /
-            Two-Handed Swords
+            Two-Handed Swords`
 
 
 ---

@@ -6,12 +6,20 @@
 
 core\core_functions.lua
 
+-- bosses
 data\dungeons.lua
 data\raids.lua
 data\wbosses.lua
+data\bossesloot.lua
+
+-- other activities
 data\factions.lua
 data\pvpitems.lua
 data\professions.lua
 data\classitems.lua
+
+-- testing
+-- test\test_function.lua
+-- test\testing.lua
 
 TurtleWoWLootNavigator.lua
