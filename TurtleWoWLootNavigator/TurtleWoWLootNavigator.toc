@@ -22,4 +22,7 @@ data\classitems.lua
 -- test\test_function.lua
 -- test\testing.lua
 
+-- view
+templates\main.lua
+
 TurtleWoWLootNavigator.lua

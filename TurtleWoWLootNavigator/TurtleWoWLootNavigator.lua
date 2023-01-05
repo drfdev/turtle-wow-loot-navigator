@@ -2,8 +2,21 @@
 -- Addon Initializer
 -- ------------------------
 
--- Main addon core: DRFDEV_TWoWLNav_ADDON
+local addon = DRFDEV_TWoWLNav_ADDON;
 
-DEFAULT_CHAT_FRAME:AddMessage("TWoWLN addon loaded");
+-- Handling init event
+local eventHandler = addon.ui.eventHandler;
+
+-- Event registered:
+eventHandler:RegisterEvent("ADDON_LOADED");
+
+-- Event handler:
+eventHandler:SetScript("OnEvent", function()
+    if event then
+        if event == 'ADDON_LOADED' and arg1 == 'TurtleWoWLootNavigator' then
+            DEFAULT_CHAT_FRAME:AddMessage("TWoWLN addon loaded");
+        end
+    end
+end);
 
 
