@@ -5,7 +5,7 @@
 local addon = DRFDEV_TWoWLNav_ADDON;
 
 -- Handling init event
-local eventHandler = addon.ui.eventHandler;
+local eventHandler = CreateFrame("Frame");
 
 -- Event registered:
 eventHandler:RegisterEvent("ADDON_LOADED");
