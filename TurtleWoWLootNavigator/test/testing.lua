@@ -12,3 +12,4 @@ end
 --- some testing ---
 -- test_getCharacterInfo();
 -- test_printAllAvailability();
+-- test_ragefire_chasm_boss_loot();

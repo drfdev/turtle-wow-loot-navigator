@@ -232,7 +232,6 @@ addon
         code
         name
         groups []
-            name
             code -> dungeons_bosses
             min_level
             max_level

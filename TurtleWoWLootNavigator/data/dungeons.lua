@@ -4,18 +4,51 @@
 
 local addon = DRFDEV_TWoWLNav_ADDON;
 
-addon.dungeons_low = {};
+addon.dungeons_low = {
+    -- Ragefire Chasm (13 - 18)
+    ['ragefire_chasm'] = {
+        code = 'RFC',
+        name = 'Ragefire Chasm',
+        groups = {
+            ['RFC_BOSSES'] = {
+                code = 'RFC_BOSSES',
+                min_level = 13,
+                max_level = 18
+            }
+        }
+    }
+};
 addon.dungeons_high = {};
-addon.dungeons_bosses = {};
+addon.dungeons_bosses = {
+    -- Ragefire Chasm (13 - 18)
+    ['RFC_BOSSES'] = {
+        code = 'RFC_BOSSES',
+        name = 'bosses',
+        bosses = {
+            ['Taragaman'] = {
+                code = 'RFC_Taragaman',
+                name = 'Taragaman the Hungerer'
+            },
+            ['Oggleflint'] = {
+                code = 'RFC_Oggleflint',
+                name = 'Oggleflint'
+            },
+            ['Jergosh'] = {
+                code = 'RFC_Jergosh',
+                name = 'Jergosh the Invoker'
+            },
+            ['Bazzalan'] = {
+                code = 'RFC_Bazzalan',
+                name = 'Bazzalan'
+            }
+        }
+    }
+};
 
 -- lits:
 
 -- Ragefire Chasm (13 - 18)
-    -- bosses:
-        -- Taragaman the Hungerer
-        -- Oggleflint
-        -- Jergosh the Invoker
-        -- Bazzalan
+    -- added
 
 -- Wailing Caverns (17 - 24)
     -- bosses:

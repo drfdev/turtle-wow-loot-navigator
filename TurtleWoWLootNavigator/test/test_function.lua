@@ -28,3 +28,25 @@ test_printAllAvailability = function()
         end
     end
 end
+
+-- dungeons_low data structure iterator (example):
+test_ragefire_chasm_boss_loot = function()
+    local duns = addon.dungeons_low;
+    for k, v in next, duns do
+        print("Dungeon: " .. v.name);
+        for g_i, g_v in next, v.groups do
+            print("group: " .. g_v.code);
+
+            local bosses = addon.dungeons_bosses[g_v.code];
+            print("bosses: " .. bosses.name);
+            for b_i, b_v in next, bosses.bosses do
+                local loot = addon.bosses_loot[b_v.code];
+                print("loot for : " .. loot.code);
+
+                for L_i, L_v in next, loot.items do
+                    print("item: " .. tostring(L_v.id) .. "/" .. L_v.name);
+                end
+            end
+        end
+    end
+end
