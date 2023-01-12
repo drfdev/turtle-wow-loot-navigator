@@ -5,8 +5,11 @@
 local addon = DRFDEV_TWoWLNav_ADDON;
 
 addon.bosses_loot = {
+    -- ------------------------------------------------
     -- Ragefire Chasm (13 - 18)
+    -- ------------------------------------------------
     ['RFC_Taragaman'] = {
+        -- https://database.turtle-wow.org/?npc=11520
         code = 'RFC_Taragaman',
         items = {
             ['14145'] = {
@@ -33,53 +36,14 @@ addon.bosses_loot = {
         }
     },
     ['RFC_Oggleflint'] = {
+        -- https://database.turtle-wow.org/?npc=11517
         code = 'RFC_Oggleflint',
         items = {
-            ['2883'] = {
-                id = 2883,
-                name = 'Plans: Deadly Bronze Poniard',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=2883
-                }
-            },
-            ['4348'] = {
-                id = 4348,
-                name = 'Pattern: Phoenix Gloves',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=4348
-                }
-            },
-            ['4410'] = {
-                id = 4410,
-                name = 'Schematic: Shadow Goggles',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=6391
-                }
-            },
-            ['4347'] = {
-                id = 4347,
-                name = 'Pattern: Reinforced Woolen Shoulders',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=4347
-                }
-            },
-            ['6390'] = {
-                id = 6390,
-                name = 'Pattern: Stylish Blue Shirt',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=6390
-                }
-            },
-            ['11039'] = {
-                id = 11039,
-                name = 'Formula: Enchant Cloak - Minor Agility',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=11039
-                }
-            }
+            -- no any significant loot
         }
     },
     ['RFC_Jergosh'] = {
+        -- https://database.turtle-wow.org/?npc=11518
         code = 'RFC_Jergosh',
         items = {
             ['14147'] = {
@@ -106,36 +70,10 @@ addon.bosses_loot = {
         }
     },
     ['RFC_Bazzalan'] = {
+        -- https://database.turtle-wow.org/?npc=11519
         code = 'RFC_Bazzalan',
         items = {
-            ['4349'] = {
-                id = 4349,
-                name = 'Pattern: Phoenix Pants',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=4349
-                }
-            },
-            ['4410'] = {
-                id = 4410,
-                name = 'Schematic: Shadow Goggles',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=4410
-                }
-            },
-            ['3394'] = {
-                id = 3394,
-                name = 'Recipe: Elixir of Poison Resistance',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=3394
-                }
-            },
-            ['10316'] = {
-                id = 10316,
-                name = 'Pattern: Colorful Kilt',
-                filtering = {
-                    -- https://database.turtle-wow.org/?item=10316
-                }
-            }
+            -- no any significant loot
         }
     }
 
