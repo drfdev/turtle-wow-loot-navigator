@@ -18,6 +18,9 @@ data\pvpitems.lua
 data\professions.lua
 data\classitems.lua
 
+-- XML templates
+templates\templates.xml
+
 -- testing
 -- test\test_function.lua
 -- test\testing.lua
